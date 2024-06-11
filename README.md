@@ -1,6 +1,3 @@
-Claro, aqui está um exemplo de README para um projeto de API feito em Node.js e Express:
-
----
 
 # User Registration API
 
